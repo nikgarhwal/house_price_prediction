@@ -49,3 +49,33 @@ This project uses the **Boston Housing dataset** to predict the **median house v
 - Mean Absolute Error: 3.15
 - Mean Absolute Percentage Error: 16.35%
 - Mean Squared Error: 20.72
+
+---
+
+## 📁 Dataset
+- The dataset is loaded from:
+- https://raw.githubusercontent.com/ybifoundation/Dataset/main/Boston.csv
+
+##📚 Learning Outcome
+- Basic end-to-end ML project setup
+
+- Linear Regression implementation with scikit-learn
+
+- Model evaluation metrics
+
+## 🙋‍♂️ Author
+Nikhil Garhwal
+
+
+---
+
+### 📄 Optional: `LICENSE` (MIT)
+
+```text
+MIT License
+
+Copyright (c) 2025 Nikhil Garhwal
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+...
+(Full MIT text continues)
