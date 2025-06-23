@@ -63,13 +63,9 @@ This project uses the **Boston Housing dataset** to predict the **median house v
 
 - Model evaluation metrics
 
-## 🙋‍♂️ Author
-Nikhil Garhwal
-
-
 ---
 
-### 📄 Optional: `LICENSE` (MIT)
+### 📄 `LICENSE` (MIT)
 
 ```text
 MIT License
