@@ -56,7 +56,9 @@ This project uses the **Boston Housing dataset** to predict the **median house v
 - The dataset is loaded from:
 - https://raw.githubusercontent.com/ybifoundation/Dataset/main/Boston.csv
 
-##📚 Learning Outcome
+---
+
+## 📚 Learning Outcome
 - Basic end-to-end ML project setup
 
 - Linear Regression implementation with scikit-learn
