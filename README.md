@@ -33,19 +33,19 @@ This project uses the **Boston Housing dataset** to predict the **median house v
 ## 📦 Setup Instructions
 
 1. **Clone the repository**
--git clone https://github.com/nikgarhwal/house_price_prediction.git
--cd house_price_prediction
+- git clone https://github.com/nikgarhwal/house_price_prediction.git
+- cd house_price_prediction
 
 2. **Install Dependencies**
--pip install -r requirements.txt
+- pip install -r requirements.txt
 
 3. **Run the script**
--python house_price_predictor.py
+- python house_price_predictor.py
 
 ---
 
 ## Sample Output 
 
--Mean Absolute Error: 3.15
--Mean Absolute Percentage Error: 16.35%
--Mean Squared Error: 20.72
+- Mean Absolute Error: 3.15
+- Mean Absolute Percentage Error: 16.35%
+- Mean Squared Error: 20.72
